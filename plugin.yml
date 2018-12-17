@@ -1,0 +1,19 @@
+name: RiseOfEmpires
+main: facemywrath.riseofempires.main.Main
+author: facemywrath
+version: 1.8
+softdepend: [ Vault, Heroes, WorldEdit, ActionBarAPI ]
+commands:
+    empire:
+        description: Class GUI.
+        usage: /<command>
+        aliases: [emp, e]
+    prestige:
+        description: Reset your levels and increase your prestige rank.
+        usage: /<command>
+    xpgive:
+        usage: /<command>
+    finishtut:
+        usage: /<command>
+    map:
+        usage: /<command>
